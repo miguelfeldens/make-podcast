@@ -15,3 +15,4 @@ Instructions
 - Import to Make.com
 - Adjust settings with own connections and API keys
 - Change voice narration in Elevenlabs module (mine is using a custom/cloned version of my own voice)
+- Set up schedule in Make
